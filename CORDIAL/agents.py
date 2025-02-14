@@ -39,11 +39,11 @@ class Agent:
                 for i in range(len(agent_path)):
                     self.agent_positions[agent_id][agent_time[i]] = agent_path[i]
 
-        # Print agent positions for verification
-        for agent_id, positions in self.agent_positions.items():
-            print(f"Agent {agent_id} positions:")
-            for time, position in sorted(positions.items()):
-                print(f"  Time {time}: Position {position}")
+        # # Print agent positions for verification
+        # for agent_id, positions in self.agent_positions.items():
+        #     print(f"Agent {agent_id} positions:")
+        #     for time, position in sorted(positions.items()):
+        #         print(f"  Time {time}: Position {position}")
 
     def initialize_agents(self):
         for agent_id, positions in self.agent_positions.items():
@@ -58,6 +58,7 @@ class Agent:
             if positions:
                 positions.pop(0)
                 self.agent_current_positions[agent_id] = positions[0]
+
 
 # temp main for testing
 if __name__ == "__main__":

@@ -8,12 +8,16 @@ class Robot:
         self.start_position = start_position
         self.current_position = start_position
         self.end_position = end_position
+        self.preplanned_path = []
 
     def __repr__(self):
         return f"{self.name}: Start {self.start_position} End {self.end_position}"
 
     def get_position(self):
         return self.current_position
+
+    def get_name(self):
+        return self.name
 
     def move(self, direction):
         x, y = self.current_position
@@ -26,6 +30,9 @@ class Robot:
         elif direction == 'R':
             self.current_position = (x + 1, y)
 
+    def set_preplanned_path(self, path):
+        self.preplanned_path = path
+
 class RobotLoader:
     def __init__(self, file_path):
         self.file_path = file_path
@@ -36,7 +43,7 @@ class RobotLoader:
         with open(self.file_path, 'r') as file:
             for line in file:
                 parts = line.split(':')
-                name = parts[0].strip()
+                name = parts[0].split()[1]
                 positions = parts[1].strip().split('End')
                 start_str = positions[0].replace('Start', '').strip()
                 end_str = positions[1].strip()
@@ -46,6 +53,8 @@ class RobotLoader:
 
     def get_robots(self):
         return self.robots
+
+
 
 # temp main for testing
 if __name__ == "__main__":
