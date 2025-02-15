@@ -8,7 +8,7 @@ class Robot:
         self.start_position = start_position
         self.current_position = start_position
         self.end_position = end_position
-        self.preplanned_path = []
+        self.is_goal_reachable = True
 
     def __repr__(self):
         return f"{self.name}: Start {self.start_position} End {self.end_position}"
@@ -30,8 +30,6 @@ class Robot:
         elif direction == 'R':
             self.current_position = (x + 1, y)
 
-    def set_preplanned_path(self, path):
-        self.preplanned_path = path
 
 class RobotLoader:
     def __init__(self, file_path):

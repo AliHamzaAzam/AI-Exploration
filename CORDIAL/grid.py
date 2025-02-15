@@ -22,7 +22,14 @@ class Grid:
     def initialize_grid(self, agents, robots, time=0):
         # Agents are a dictionary of dictionaries with time as key and position as value
         for agent in agents:
-            position = agents[agent][time]
+            last_time = max(agents[agent].keys())
+            period = 2 * last_time
+            t_mod = time % period
+            if t_mod <= last_time:
+                effective_time = t_mod
+            else:
+                effective_time = period - t_mod
+            position = agents[agent][effective_time]
             x, y = position
             self.grid[y] = self.grid[y][:x] + 'A' + self.grid[y][x+1:]
         for robot in robots:
