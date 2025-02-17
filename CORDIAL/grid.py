@@ -2,78 +2,78 @@
 # Created by Ali Hamza Azam (22I-2126 | CS-A) on 13/02/2025
 #
 import robots
-import agents
+
+
+def load_grid(file):
+    with open(file, 'r') as f:
+        N = int(f.readline().strip())
+        return [f.readline().rstrip('\n') for _ in range(N)]
+
 
 class Grid:
-    def __init__(self, grid_file):
-        self.N = None
-        self.grid = []
-        self.load_grid(grid_file)
+    def __init__(self, file):
+        self.grid = load_grid(file)
+        self.N = len(self.grid)
+        self.M = len(self.grid[0]) if self.grid else 0
+        self.display_grid = [[' ' for _ in range(self.M)] for _ in range(self.N)]
+        self._init_display_grid()
 
-    def load_grid(self, grid_file):
-        with open(grid_file, 'r') as file:
-            # Read the first line to get the size of the grid
-            self.N = int(file.readline().strip())
-            # Read the grid rows while preserving trailing spaces
-            for i in range(self.N):
-                row = file.readline().rstrip('\n')
-                self.grid.append(row)
+    def _init_display_grid(self):
+        # Initialize display grid with walls
+        for y in range(self.N):
+            for x in range(self.M):
+                if self.grid[y][x] == 'X':
+                    self.display_grid[y][x] = 'X'
+                else:
+                    self.display_grid[y][x] = ' '
 
     def initialize_grid(self, agents, robots, time=0):
-        # Agents are a dictionary of dictionaries with time as key and position as value
-        for agent in agents:
-            last_time = max(agents[agent].keys())
-            period = 2 * last_time
+        self._place_entities(agents, '\033[32mA\033[0m', time)  # Green for Agents
+        self._place_entities({robot: {0: robot.get_position()} for robot in robots}, 'R', time)
+
+    def _place_entities(self, entities, symbol, time):
+        for entity, schedule in entities.items():
+            last_time = max(schedule.keys())
+            period = 2 * last_time or 1
             t_mod = time % period
-            if t_mod <= last_time:
-                effective_time = t_mod
+            effective_time = t_mod if t_mod <= last_time else period - t_mod
+            x, y = schedule[effective_time]
+
+            # Determine symbol color
+            if isinstance(entity, robots.Robot):
+                if entity.current_position == entity.end_position:
+                    colored_symbol = '\033[33mG\033[0m'  # Gold for Goal
+                else:
+                    colored_symbol = '\033[34mR\033[0m'  # Blue for Robots
+            elif symbol == 'A':
+                colored_symbol = '\033[32mA\033[0m'  # Green for Agents
             else:
-                effective_time = period - t_mod
-            position = agents[agent][effective_time]
-            x, y = position
-            self.grid[y] = self.grid[y][:x] + 'A' + self.grid[y][x+1:]
-        for robot in robots:
-            position = robot.get_position()
-            x, y = position
-            self.grid[y] = self.grid[y][:x] + 'R' + self.grid[y][x+1:]
+                colored_symbol = symbol
+
+            # Only place if not hitting a wall
+            if self.display_grid[y][x] != 'X':
+                self.display_grid[y][x] = colored_symbol
 
     def update_grid(self, agents, robots, time):
-        # Clear the grid of all agents and robots
-        for i in range(self.N):
-            for agent in agents:
-                self.grid[i] = self.grid[i].replace('A', ' ')
-            for robot in robots:
-                self.grid[i] = self.grid[i].replace('R', ' ')
-        # Place the agents and robots in their new positions
+        # Reset display grid to only walls
+        self._init_display_grid()
+        # Place entities on the display grid
         self.initialize_grid(agents, robots, time)
 
-    def is_static_obstacle(self, x, y):
-        return self.grid[y][x] == 'X'
-
     def print_grid(self):
-        for row in self.grid:
-            print(row)
+        # Print the display grid row by row
+        for row in self.display_grid:
+            print(''.join(row))
+
+    def get_rows(self):
+        return self.N
+
+    def get_columns(self):
+        return self.M
 
     def get_grid(self):
         return self.grid
 
-    def set_grid(self, grid):
-        self.grid = grid
-
-    def get_size(self):
-        return self.N
-
-
-# temp main for testing
-if __name__ == "__main__":
-    grid_file = 'Data/data0.txt'
-    grid = Grid(grid_file)
-    agents_file = 'Data/Agent0.txt'
-    agent_loader = agents.Agent(agents_file)
-    agent_loader.initialize_agents()
-    agents = agent_loader.get_agents()
-    robot_file = 'Data/Robots0.txt'
-    robot_loader = robots.RobotLoader(robot_file)
-    robots = robot_loader.get_robots()
-    grid.initialize_grid(agents.values(), robots)
-    grid.print_grid()
+    def is_obstacle(self, position):
+        x, y = position
+        return self.grid[y][x] == 'X'  # Assuming 'X' represents an obstacle
