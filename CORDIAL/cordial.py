@@ -16,13 +16,13 @@ def visualize_grid(grid_obj, agents_dict, robots_list, current_time):
     time.sleep(0.5)
 
 def main():
-    visualization_enabled = False
+    visualization_enabled = True
     max_timestamps = 1000
 
     # Initialize components
-    grid_obj = grid.Grid('Data/data4.txt')
-    agents_dict = agents.Agent('Data/Agent4.txt').get_agents()
-    robots_list = robots.RobotLoader('Data/Robots4.txt').get_robots()
+    grid_obj = grid.Grid('Data/data0.txt')
+    agents_dict = agents.Agent('Data/Agent0.txt').get_agents()
+    robots_list = robots.RobotLoader('Data/Robots0.txt').get_robots()
 
     # Initialize the pathfinder
     pathfinder = PathFinder(grid_obj, robots_list, agents_dict)

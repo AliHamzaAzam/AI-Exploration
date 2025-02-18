@@ -9,6 +9,9 @@ class Robot:
         self.end_position = end_position
         self.is_goal_reachable = True
 
+    def get_position(self):
+        return self.current_position
+
 
 def parse_position(position_str):
     return tuple(map(int, position_str.strip('() ').split(',')))
@@ -33,3 +36,4 @@ class RobotLoader:
 
     def get_robots(self):
         return self.robots
+
