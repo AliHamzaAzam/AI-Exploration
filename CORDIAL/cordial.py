@@ -16,7 +16,7 @@ def visualize_grid(grid_obj, agents_dict, robots_list, current_time):
     time.sleep(0.5)
 
 def main():
-    visualization_enabled = True
+    visualization_enabled = False
     max_timestamps = 1000
 
     # Initialize components
