@@ -1,0 +1,1000 @@
+22i-3703 CN-A A C
+22i-3703 DAA-D D E
+22i-3703 Data Engineering-C C Applied ML-B
+22i-3703 PF-D D DAA-B
+22i-3703 DBMS-E E SE-E
+21i-2577 DB-A A B
+21i-2577 OS-A A SE-A
+21i-2577 DDE-A A D
+21i-2577 DAA-A A Data Visualization-C
+21i-2577 CN-E E B
+24i-7175 Data Analysis-D D OS-D
+24i-7175 DBMS-C C Data Visualization-E
+24i-7175 DAA-B B B
+24i-7175 AI-E E CN-D
+24i-7175 AI-C C Applied ML-D
+21i-7304 SE-E E B
+21i-7304 CC-A A D
+21i-7304 AI-C C E
+21i-7304 DBMS-C C SE-C
+21i-7304 CN-D D SE-B
+23i-0610 DBMS-B B E
+23i-0610 Data Visualization-B B E
+23i-0610 AI-C C A
+23i-0610 DB-C C CN-D
+23i-0610 SE-C C B
+21i-1280 Applied ML-B B A
+21i-1280 PF-B B CC-E
+21i-1280 Data Visualization-C C C
+21i-1280 CN-C C Data Engineering-B
+21i-1280 SE-A A E
+22i-1245 CV-A A A
+22i-1245 DB-D D A
+22i-1245 Data Engineering-D D DBMS-E
+22i-1245 CC-D D D
+22i-1245 Data Visualization-D D B
+22i-9783 OS-A A C
+22i-9783 Data Visualization-E E C
+22i-9783 DDE-D D CC-C
+22i-9783 Data Mining-B B D
+22i-9783 OOP-C C B
+21i-8733 AI-D D B
+21i-8733 AI-D D CN-A
+21i-8733 Applied ML-C C SE-A
+21i-8733 DAA-C C Data Science-D
+21i-8733 Applied ML-C C E
+23i-5821 DB-E E B
+23i-5821 CC-A A D
+23i-5821 Data Science-B B OS-D
+23i-5821 OS-A A Data Science-C
+23i-5821 Applied ML-E E C
+21i-3712 OS-E E C
+21i-3712 DDE-A A DBMS-C
+21i-3712 CV-A A E
+21i-3712 OOP-D D CN-D
+21i-3712 DBMS-B B SE-B
+23i-4410 AI-E E D
+23i-4410 DAA-A A SE-E
+23i-4410 DAA-B B DDE-A
+23i-4410 SE-C C D
+23i-4410 DAA-C C SE-D
+22i-8205 CV-E E OOP-E
+22i-8205 CC-B B C
+22i-8205 CV-A A E
+22i-8205 CN-B B D
+22i-8205 CC-E E D
+23i-0598 DAA-C C C
+23i-0598 DAA-D D B
+23i-0598 OS-A A CV-A
+23i-0598 AI-D D Data Mining-B
+23i-0598 OS-B B CC-B
+22i-1621 DAA-E E OS-A
+22i-1621 SE-B B Data Engineering-A
+22i-1621 DBMS-D D DAA-D
+22i-1621 CV-D D DAA-B
+22i-1621 Data Mining-B B Applied ML-D
+21i-9925 CN-B B Data Science-A
+21i-9925 CC-E E E
+21i-9925 OS-E E E
+21i-9925 Data Visualization-B B C
+21i-9925 OOP-B B CC-E
+22i-6172 Data Engineering-D D CN-A
+22i-6172 Applied ML-E E B
+22i-6172 DDE-B B C
+22i-6172 SE-A A OS-E
+22i-6172 PF-C C B
+23i-7922 AI-E E E
+23i-7922 Data Visualization-C C C
+23i-7922 SE-C C D
+23i-7922 PF-C C A
+23i-7922 DBMS-C C DDE-D
+21i-0083 CC-B B DAA-B
+21i-0083 Data Mining-D D A
+21i-0083 SE-A A Applied ML-A
+21i-0083 Data Analysis-D D E
+21i-0083 SE-D D D
+22i-8181 CV-B B DDE-E
+22i-8181 Data Visualization-A A SE-B
+22i-8181 OS-A A OOP-E
+22i-8181 AI-E E B
+22i-8181 SE-A A E
+23i-4163 OOP-E E SE-B
+23i-4163 CN-E E OS-C
+23i-4163 OOP-E E C
+23i-4163 CN-E E B
+23i-4163 Data Science-D D B
+21i-7889 Data Science-B B B
+21i-7889 DBMS-D D CN-A
+21i-7889 Data Analysis-B B CV-A
+21i-7889 Data Engineering-A A C
+21i-7889 Data Mining-A A A
+24i-0107 SE-B B CV-E
+24i-0107 DAA-D D B
+24i-0107 Data Visualization-E E DDE-D
+24i-0107 SE-C C D
+24i-0107 Data Visualization-D D CN-B
+24i-6378 CV-C C D
+24i-6378 Data Science-C C CN-C
+24i-6378 CC-C C Data Science-B
+24i-6378 CN-B B A
+24i-6378 DDE-C C CN-C
+24i-4458 DB-C C CN-D
+24i-4458 SE-D D D
+24i-4458 OOP-A A OS-C
+24i-4458 OS-A A C
+24i-4458 CN-B B DAA-E
+22i-2224 CC-D D PF-E
+22i-2224 Data Mining-D D Data Analysis-E
+22i-2224 Data Mining-A A OOP-D
+22i-2224 CV-D D A
+22i-2224 Data Science-C C B
+21i-8707 SE-E E C
+21i-8707 DB-D D CC-D
+21i-8707 OS-C C AI-B
+21i-8707 CV-E E Data Engineering-C
+21i-8707 CN-B B Data Engineering-D
+22i-1343 CV-A A PF-C
+22i-1343 OOP-A A D
+22i-1343 DB-D D DBMS-E
+22i-1343 CN-A A C
+22i-1343 PF-A A Data Visualization-B
+21i-1199 DDE-D D SE-E
+21i-1199 Data Visualization-E E DBMS-C
+21i-1199 Applied ML-A A C
+21i-1199 OS-E E DBMS-C
+21i-1199 CN-D D B
+22i-9270 Data Visualization-A A DB-B
+22i-9270 SE-D D C
+22i-9270 SE-E E E
+22i-9270 OS-E E SE-E
+22i-9270 DBMS-B B D
+24i-5544 DBMS-B B OS-A
+24i-5544 DAA-B B Data Science-C
+24i-5544 OS-E E B
+24i-5544 DAA-E E DBMS-C
+24i-5544 DAA-B B OS-C
+23i-6222 OOP-B B Data Visualization-A
+23i-6222 Data Visualization-E E DDE-C
+23i-6222 OS-D D B
+23i-6222 Data Mining-D D C
+23i-6222 CC-C C B
+22i-2042 DAA-A A Data Analysis-E
+22i-2042 DAA-B B CN-D
+22i-2042 Applied ML-D D Data Visualization-A
+22i-2042 OS-E E Data Analysis-B
+22i-2042 OS-A A E
+21i-1862 SE-E E A
+21i-1862 OS-B B B
+21i-1862 CC-A A C
+21i-1862 OS-D D DBMS-B
+21i-1862 Applied ML-A A SE-A
+24i-2167 PF-C C D
+24i-2167 OS-E E SE-D
+24i-2167 Data Visualization-B B A
+24i-2167 PF-B B E
+24i-2167 DAA-C C SE-E
+21i-8514 Data Analysis-E E CN-D
+21i-8514 DB-A A A
+21i-8514 Data Analysis-C C C
+21i-8514 Data Analysis-E E SE-D
+21i-8514 CC-D D C
+23i-1727 CV-B B DB-C
+23i-1727 DDE-C C SE-E
+23i-1727 AI-D D DAA-D
+23i-1727 AI-A A OOP-A
+23i-1727 DBMS-A A B
+23i-4048 Data Mining-D D OOP-C
+23i-4048 OS-A A Data Mining-E
+23i-4048 CC-C C D
+23i-4048 CN-C C D
+23i-4048 CC-C C SE-E
+24i-8837 Applied ML-C C E
+24i-8837 DAA-B B OS-C
+24i-8837 DAA-B B Applied ML-B
+24i-8837 PF-B B OOP-A
+24i-8837 OOP-B B SE-B
+22i-3238 OS-B B A
+22i-3238 DAA-E E OS-A
+22i-3238 DAA-B B DBMS-B
+22i-3238 DBMS-B B AI-D
+22i-3238 OS-D D SE-D
+24i-2249 DB-B B DBMS-A
+24i-2249 CN-D D DAA-C
+24i-2249 OS-D D D
+24i-2249 Applied ML-A A A
+24i-2249 CV-E E CC-C
+23i-8076 Data Engineering-C C Applied ML-C
+23i-8076 Data Analysis-E E D
+23i-8076 DAA-A A B
+23i-8076 CC-E E CN-C
+23i-8076 PF-D D E
+21i-6802 PF-B B D
+21i-6802 CN-C C D
+21i-6802 SE-D D C
+21i-6802 Applied ML-C C CN-D
+21i-6802 SE-A A Applied ML-C
+22i-3291 Data Engineering-C C C
+22i-3291 PF-A A OS-A
+22i-3291 OOP-B B Applied ML-C
+22i-3291 DDE-B B Data Analysis-C
+22i-3291 CN-C C D
+24i-0773 DDE-D D CC-C
+24i-0773 OS-A A B
+24i-0773 Applied ML-C C CN-A
+24i-0773 OOP-B B CC-A
+24i-0773 CN-E E AI-C
+24i-7341 Data Analysis-D D Data Science-C
+24i-7341 CV-B B SE-D
+24i-7341 AI-E E DBMS-D
+24i-7341 CN-A A Applied ML-E
+24i-7341 SE-C C E
+24i-4504 CN-D D A
+24i-4504 Data Visualization-A A DBMS-E
+24i-4504 DBMS-D D E
+24i-4504 OS-C C D
+24i-4504 Data Science-B B Data Mining-A
+23i-4137 PF-A A DBMS-D
+23i-4137 OOP-D D B
+23i-4137 DAA-B B DDE-A
+23i-4137 OS-D D CC-B
+23i-4137 OS-D D OOP-C
+23i-8498 DBMS-E E AI-C
+23i-8498 Applied ML-B B C
+23i-8498 PF-D D Data Science-E
+23i-8498 Data Engineering-B B C
+23i-8498 OS-E E Data Science-D
+24i-6583 CV-A A Applied ML-B
+24i-6583 Data Mining-A A CC-C
+24i-6583 OS-D D E
+24i-6583 DAA-C C OS-B
+24i-6583 CC-C C DDE-B
+22i-9833 OOP-C C OS-D
+22i-9833 OOP-B B E
+22i-9833 Data Mining-E E E
+22i-9833 DBMS-A A B
+22i-9833 DBMS-E E E
+22i-7677 OS-A A Applied ML-E
+22i-7677 Data Engineering-A A B
+22i-7677 SE-D D C
+22i-7677 CV-D D B
+22i-7677 Data Mining-D D D
+24i-6673 PF-A A CV-B
+24i-6673 DAA-C C DB-C
+24i-6673 DBMS-D D B
+24i-6673 OS-D D D
+24i-6673 PF-B B D
+21i-9283 Data Visualization-C C Data Engineering-B
+21i-9283 DB-C C CC-C
+21i-9283 CN-A A C
+21i-9283 Data Analysis-C C Data Science-A
+21i-9283 AI-D D Data Analysis-E
+24i-7632 OOP-C C E
+24i-7632 DAA-C C A
+24i-7632 SE-E E CV-C
+24i-7632 Data Science-C C SE-A
+24i-7632 DBMS-D D SE-C
+23i-2953 CN-D D SE-A
+23i-2953 OS-E E C
+23i-2953 DAA-D D CN-C
+23i-2953 PF-A A D
+23i-2953 Data Engineering-E E DB-E
+21i-0433 SE-A A DBMS-B
+21i-0433 Data Mining-A A A
+21i-0433 Data Engineering-D D A
+21i-0433 DB-C C A
+21i-0433 CV-C C DB-B
+22i-9517 OOP-A A C
+22i-9517 SE-C C Applied ML-E
+22i-9517 OOP-C C OS-C
+22i-9517 OOP-D D C
+22i-9517 Data Science-A A SE-E
+22i-4525 Data Visualization-C C CV-A
+22i-4525 OS-E E A
+22i-4525 SE-A A DDE-B
+22i-4525 DBMS-C C CV-A
+22i-4525 PF-E E C
+24i-1204 Data Visualization-A A B
+24i-1204 CN-A A E
+24i-1204 AI-E E B
+24i-1204 OS-D D C
+24i-1204 DBMS-E E DB-D
+21i-8712 Data Mining-B B SE-E
+21i-8712 OOP-C C DAA-D
+21i-8712 CC-D D E
+21i-8712 Applied ML-E E E
+21i-8712 PF-D D OOP-E
+21i-1208 OOP-B B D
+21i-1208 OS-D D PF-C
+21i-1208 DAA-E E CN-D
+21i-1208 Applied ML-C C E
+21i-1208 Data Science-D D Data Analysis-E
+23i-7087 Data Mining-A A D
+23i-7087 AI-C C B
+23i-7087 CC-C C B
+23i-7087 OS-C C CN-D
+23i-7087 CN-A A C
+21i-4441 Data Mining-B B C
+21i-4441 OOP-E E E
+21i-4441 Data Mining-C C Data Visualization-D
+21i-4441 Data Mining-D D A
+21i-4441 DDE-E E SE-D
+23i-9152 CV-E E D
+23i-9152 DB-A A Data Analysis-A
+23i-9152 DB-D D A
+23i-9152 DAA-E E A
+23i-9152 Data Science-E E CV-A
+22i-2029 CN-E E B
+22i-2029 OS-C C E
+22i-2029 DAA-C C Data Science-B
+22i-2029 CC-A A DAA-A
+22i-2029 Data Analysis-E E PF-D
+22i-4514 DBMS-E E CC-C
+22i-4514 DBMS-A A A
+22i-4514 Data Analysis-D D Data Engineering-A
+22i-4514 PF-B B CC-B
+22i-4514 OOP-A A PF-E
+24i-4078 DAA-E E C
+24i-4078 CN-C C A
+24i-4078 Data Engineering-B B C
+24i-4078 Applied ML-A A DBMS-A
+24i-4078 OS-C C E
+22i-1738 CN-B B D
+22i-1738 Applied ML-D D PF-D
+22i-1738 OOP-B B A
+22i-1738 Applied ML-A A DAA-E
+22i-1738 OOP-C C DAA-A
+21i-1071 OOP-C C SE-D
+21i-1071 Data Mining-E E SE-E
+21i-1071 OS-C C DAA-D
+21i-1071 OS-E E Data Mining-B
+21i-1071 CC-D D B
+22i-9121 DAA-A A Data Mining-D
+22i-9121 CN-C C SE-C
+22i-9121 Data Mining-D D PF-B
+22i-9121 Data Science-D D D
+22i-9121 Data Visualization-D D AI-C
+21i-0822 Data Engineering-A A E
+21i-0822 CN-D D D
+21i-0822 Applied ML-E E OS-A
+21i-0822 AI-C C E
+21i-0822 Data Mining-D D AI-E
+24i-3624 Data Mining-D D CC-A
+24i-3624 Data Science-A A D
+24i-3624 SE-A A A
+24i-3624 DAA-D D C
+24i-3624 OS-E E A
+21i-2667 CN-C C B
+21i-2667 Data Science-B B Data Mining-C
+21i-2667 OS-D D C
+21i-2667 CV-E E E
+21i-2667 DDE-B B E
+24i-0023 DDE-C C D
+24i-0023 Applied ML-C C D
+24i-0023 OS-B B PF-D
+24i-0023 CC-E E B
+24i-0023 Data Mining-E E Data Engineering-E
+24i-0436 CV-D D PF-B
+24i-0436 DBMS-A A Data Science-C
+24i-0436 DDE-D D PF-B
+24i-0436 DAA-C C Data Visualization-B
+24i-0436 Data Analysis-C C A
+21i-9264 OOP-B B CV-E
+21i-9264 DAA-C C Applied ML-B
+21i-9264 SE-D D D
+21i-9264 SE-E E E
+21i-9264 OS-A A C
+21i-5827 CC-B B C
+21i-5827 Data Visualization-B B E
+21i-5827 SE-B B E
+21i-5827 OS-A A DB-D
+21i-5827 Data Mining-B B PF-A
+23i-6383 SE-D D E
+23i-6383 DB-B B D
+23i-6383 Applied ML-C C A
+23i-6383 SE-D D C
+23i-6383 Data Mining-D D CN-E
+24i-4769 DAA-D D C
+24i-4769 DBMS-A A B
+24i-4769 DAA-A A C
+24i-4769 CC-A A A
+24i-4769 Data Engineering-A A OS-C
+22i-9902 Data Science-E E C
+22i-9902 PF-A A C
+22i-9902 OS-C C D
+22i-9902 CN-D D Data Science-A
+22i-9902 DAA-E E A
+24i-1314 Data Mining-B B E
+24i-1314 DDE-C C CC-C
+24i-1314 PF-E E D
+24i-1314 Data Science-D D B
+24i-1314 OS-C C A
+23i-4597 CC-C C A
+23i-4597 AI-A A D
+23i-4597 DDE-C C SE-C
+23i-4597 CN-B B Data Analysis-B
+23i-4597 OOP-B B CN-C
+22i-6715 CN-B B D
+22i-6715 Applied ML-A A DBMS-B
+22i-6715 Data Analysis-E E B
+22i-6715 AI-C C SE-C
+22i-6715 CN-D D E
+21i-9455 SE-C C OOP-C
+21i-9455 DAA-C C E
+21i-9455 Data Engineering-D D DBMS-A
+21i-9455 DDE-E E C
+21i-9455 CN-D D E
+23i-1393 DDE-E E D
+23i-1393 SE-E E OS-C
+23i-1393 DDE-D D SE-A
+23i-1393 OOP-C C D
+23i-1393 SE-D D OS-C
+21i-8062 CC-A A Data Engineering-A
+21i-8062 CC-D D CV-D
+21i-8062 DDE-B B Data Visualization-E
+21i-8062 CN-D D E
+21i-8062 SE-C C B
+22i-8445 DAA-E E OOP-C
+22i-8445 SE-A A C
+22i-8445 Data Mining-E E B
+22i-8445 Data Visualization-A A C
+22i-8445 OOP-A A Data Science-E
+22i-9508 CV-A A PF-E
+22i-9508 Data Science-B B B
+22i-9508 SE-C C Data Visualization-B
+22i-9508 SE-E E OOP-C
+22i-9508 Data Science-A A Data Visualization-C
+21i-8696 DBMS-C C PF-A
+21i-8696 DAA-A A OS-C
+21i-8696 DBMS-E E D
+21i-8696 CN-D D Data Science-E
+21i-8696 Data Science-A A A
+22i-2666 PF-E E A
+22i-2666 DBMS-C C SE-B
+22i-2666 Data Science-A A Data Analysis-D
+22i-2666 DBMS-C C CN-C
+22i-2666 Data Analysis-C C SE-C
+24i-4342 DAA-D D DDE-D
+24i-4342 OS-E E D
+24i-4342 SE-E E C
+24i-4342 SE-C C D
+24i-4342 AI-D D A
+23i-4064 Applied ML-A A E
+23i-4064 DB-D D B
+23i-4064 DAA-A A B
+23i-4064 Data Engineering-B B CN-E
+23i-4064 Data Mining-D D D
+22i-7587 AI-D D C
+22i-7587 Data Analysis-A A C
+22i-7587 OOP-E E A
+22i-7587 DAA-A A Data Visualization-A
+22i-7587 DDE-C C D
+22i-5188 DBMS-A A Data Engineering-D
+22i-5188 Applied ML-A A C
+22i-5188 OS-E E A
+22i-5188 SE-E E B
+22i-5188 Data Science-D D PF-E
+24i-4686 Data Engineering-A A OS-A
+24i-4686 Data Analysis-E E B
+24i-4686 DDE-B B Applied ML-B
+24i-4686 DAA-E E Data Mining-E
+24i-4686 AI-C C B
+23i-3040 DBMS-B B CV-E
+23i-3040 OS-D D D
+23i-3040 Data Science-E E DB-A
+23i-3040 DBMS-D D C
+23i-3040 AI-A A OS-E
+21i-2459 Data Engineering-D D CC-D
+21i-2459 Data Science-A A PF-C
+21i-2459 AI-B B OS-E
+21i-2459 CV-E E CN-C
+21i-2459 DDE-E E B
+21i-3343 DAA-B B AI-C
+21i-3343 DAA-D D SE-C
+21i-3343 SE-D D B
+21i-3343 CN-C C E
+21i-3343 DAA-D D B
+21i-6987 DDE-E E E
+21i-6987 CV-B B B
+21i-6987 DB-A A B
+21i-6987 CN-D D B
+21i-6987 DB-B B B
+22i-8738 DB-E E C
+22i-8738 OS-E E CV-C
+22i-8738 CC-E E DDE-E
+22i-8738 CV-A A SE-A
+22i-8738 CV-E E E
+23i-1125 CN-C C C
+23i-1125 PF-D D CN-E
+23i-1125 PF-E E D
+23i-1125 DDE-A A D
+23i-1125 OOP-D D CN-E
+24i-1098 Data Visualization-B B SE-A
+24i-1098 CC-B B A
+24i-1098 Data Science-D D D
+24i-1098 Data Analysis-E E A
+24i-1098 Data Mining-B B E
+24i-6494 CN-A A SE-E
+24i-6494 OS-C C E
+24i-6494 Data Engineering-B B Data Science-B
+24i-6494 CC-E E B
+24i-6494 Data Analysis-B B Data Visualization-A
+22i-8097 DAA-B B A
+22i-8097 SE-A A C
+22i-8097 CN-A A AI-C
+22i-8097 Data Science-A A C
+22i-8097 DBMS-C C DAA-A
+23i-1384 CC-E E DAA-B
+23i-1384 DDE-E E B
+23i-1384 OS-A A E
+23i-1384 Data Analysis-A A A
+23i-1384 Data Science-C C CC-C
+22i-7297 Data Mining-E E D
+22i-7297 DBMS-B B Applied ML-A
+22i-7297 CC-C C D
+22i-7297 DBMS-D D B
+22i-7297 DBMS-A A D
+22i-0696 DBMS-A A D
+22i-0696 CN-D D Data Science-C
+22i-0696 DDE-D D OS-D
+22i-0696 AI-B B CN-D
+22i-0696 Data Visualization-E E C
+22i-6659 DB-A A B
+22i-6659 Data Analysis-E E D
+22i-6659 CN-A A D
+22i-6659 SE-B B B
+22i-6659 Data Mining-D D Data Engineering-D
+22i-0183 Data Visualization-E E C
+22i-0183 CC-B B Data Analysis-C
+22i-0183 DBMS-A A OS-E
+22i-0183 DAA-D D A
+22i-0183 CN-D D PF-A
+21i-0055 Data Science-D D DAA-A
+21i-0055 SE-C C A
+21i-0055 CN-E E E
+21i-0055 DAA-D D CN-E
+21i-0055 Data Engineering-A A D
+22i-3534 Data Engineering-C C OS-C
+22i-3534 Data Visualization-E E PF-C
+22i-3534 DB-D D OS-D
+22i-3534 CC-E E C
+22i-3534 SE-B B C
+24i-1185 DAA-C C B
+24i-1185 CV-E E C
+24i-1185 SE-E E Data Visualization-E
+24i-1185 PF-A A Data Engineering-D
+24i-1185 CN-A A A
+24i-9711 DBMS-C C E
+24i-9711 Data Mining-E E A
+24i-9711 Data Engineering-A A D
+24i-9711 Data Mining-E E DBMS-A
+24i-9711 Data Visualization-E E DAA-A
+23i-4717 AI-D D Data Visualization-A
+23i-4717 OS-D D DBMS-D
+23i-4717 DDE-C C E
+23i-4717 DDE-C C Data Science-A
+23i-4717 DDE-B B CN-B
+23i-6637 OS-C C OOP-E
+23i-6637 DBMS-D D B
+23i-6637 CV-B B Data Mining-B
+23i-6637 CC-A A D
+23i-6637 SE-C C E
+24i-9357 Data Engineering-B B PF-E
+24i-9357 Data Science-E E DAA-C
+24i-9357 DAA-A A CN-D
+24i-9357 OS-A A C
+24i-9357 DAA-D D B
+22i-8347 CC-C C DBMS-D
+22i-8347 Data Analysis-A A B
+22i-8347 CC-A A DAA-E
+22i-8347 SE-D D Data Visualization-C
+22i-8347 Data Science-A A B
+23i-0772 AI-A A C
+23i-0772 OS-A A DAA-C
+23i-0772 Data Engineering-C C OS-E
+23i-0772 DBMS-C C CC-C
+23i-0772 AI-C C CC-C
+22i-4862 DAA-E E SE-A
+22i-4862 CN-B B Data Engineering-C
+22i-4862 DAA-E E Applied ML-E
+22i-4862 OOP-E E E
+22i-4862 SE-E E B
+24i-4011 OS-A A E
+24i-4011 SE-D D Data Mining-C
+24i-4011 DB-A A CN-D
+24i-4011 DDE-E E CC-E
+24i-4011 OOP-A A E
+22i-9652 Data Analysis-D D E
+22i-9652 CC-C C SE-C
+22i-9652 DDE-C C A
+22i-9652 SE-C C DBMS-D
+22i-9652 CC-C C C
+22i-5874 DBMS-C C E
+22i-5874 CN-D D DB-E
+22i-5874 DAA-C C Data Analysis-E
+22i-5874 OS-B B C
+22i-5874 CN-A A E
+23i-5013 PF-C C Data Visualization-A
+23i-5013 OS-C C Applied ML-B
+23i-5013 Data Analysis-A A D
+23i-5013 CC-B B CN-E
+23i-5013 CC-B B DAA-E
+24i-3334 DAA-C C SE-C
+24i-3334 Data Science-B B C
+24i-3334 CC-B B Applied ML-A
+24i-3334 CN-E E A
+24i-3334 CN-C C A
+23i-7136 Applied ML-B B D
+23i-7136 Applied ML-A A CC-D
+23i-7136 Applied ML-C C SE-B
+23i-7136 Applied ML-D D PF-A
+23i-7136 DDE-C C CN-E
+24i-7654 Data Mining-E E CV-A
+24i-7654 CV-E E E
+24i-7654 CC-A A A
+24i-7654 DDE-D D D
+24i-7654 DAA-C C E
+22i-1269 DBMS-C C B
+22i-1269 DAA-D D Data Visualization-D
+22i-1269 DAA-C C D
+22i-1269 Data Mining-A A CN-A
+22i-1269 OS-B B B
+22i-3608 OS-B B Data Engineering-B
+22i-3608 OS-A A A
+22i-3608 Data Analysis-A A SE-D
+22i-3608 DBMS-A A E
+22i-3608 CC-D D E
+21i-3257 SE-B B DBMS-D
+21i-3257 DBMS-C C D
+21i-3257 CC-A A E
+21i-3257 DB-A A C
+21i-3257 Data Science-A A A
+22i-3037 OS-D D SE-C
+22i-3037 DB-E E E
+22i-3037 DDE-C C CC-E
+22i-3037 DDE-B B D
+22i-3037 Applied ML-B B A
+23i-8521 Data Mining-E E A
+23i-8521 Data Analysis-D D E
+23i-8521 PF-C C E
+23i-8521 DB-B B B
+23i-8521 PF-C C Data Science-C
+23i-7011 Data Mining-D D A
+23i-7011 OS-C C Data Engineering-B
+23i-7011 Data Science-A A Data Analysis-B
+23i-7011 DAA-B B E
+23i-7011 CC-D D DAA-C
+24i-4161 AI-C C A
+24i-4161 SE-E E DB-E
+24i-4161 PF-A A DBMS-E
+24i-4161 OOP-D D Data Analysis-C
+24i-4161 OOP-C C B
+23i-2972 CC-A A DB-A
+23i-2972 DAA-C C D
+23i-2972 AI-B B D
+23i-2972 DB-D D C
+23i-2972 CN-A A OS-D
+24i-1568 CN-E E C
+24i-1568 DBMS-C C AI-C
+24i-1568 Applied ML-A A E
+24i-1568 CC-C C DAA-A
+24i-1568 Data Mining-D D B
+23i-2483 OS-B B DDE-C
+23i-2483 OS-D D DBMS-A
+23i-2483 AI-A A B
+23i-2483 SE-A A CC-D
+23i-2483 DAA-B B CN-B
+23i-6062 Data Engineering-B B B
+23i-6062 Data Analysis-D D B
+23i-6062 DDE-C C Data Mining-D
+23i-6062 Data Visualization-B B D
+23i-6062 DB-D D B
+21i-5115 DDE-C C A
+21i-5115 DDE-C C E
+21i-5115 Data Mining-B B B
+21i-5115 DAA-B B C
+21i-5115 OS-A A Data Science-D
+21i-5799 CC-D D Data Mining-A
+21i-5799 DBMS-A A DDE-D
+21i-5799 Data Mining-D D DB-B
+21i-5799 PF-A A DAA-A
+21i-5799 DBMS-D D CV-C
+23i-6332 CC-D D CN-A
+23i-6332 OS-E E D
+23i-6332 Data Engineering-C C E
+23i-6332 CC-E E Data Science-C
+23i-6332 AI-D D A
+22i-3028 DAA-B B SE-E
+22i-3028 Applied ML-B B DB-E
+22i-3028 DAA-B B CV-C
+22i-3028 Data Mining-D D B
+22i-3028 Data Science-C C E
+22i-0894 OS-E E B
+22i-0894 OS-C C Data Science-B
+22i-0894 DAA-A A SE-A
+22i-0894 Data Mining-C C CV-D
+22i-0894 Applied ML-C C A
+22i-7459 CN-D D OOP-A
+22i-7459 AI-D D DAA-D
+22i-7459 Data Science-E E A
+22i-7459 OOP-E E Data Engineering-A
+22i-7459 Data Engineering-B B C
+22i-4632 CC-B B Data Engineering-E
+22i-4632 CN-D D E
+22i-4632 CC-C C DAA-C
+22i-4632 CC-E E SE-B
+22i-4632 OS-A A CC-C
+22i-7593 Data Engineering-C C SE-B
+22i-7593 Data Analysis-E E Data Visualization-E
+22i-7593 AI-B B E
+22i-7593 SE-B B B
+22i-7593 CC-D D OOP-D
+21i-1991 OS-D D E
+21i-1991 PF-C C CC-C
+21i-1991 Data Visualization-D D OS-A
+21i-1991 Data Visualization-C C CC-C
+21i-1991 Data Science-A A DB-B
+24i-2575 CC-E E E
+24i-2575 DBMS-C C C
+24i-2575 DB-D D Data Science-A
+24i-2575 Applied ML-D D A
+24i-2575 AI-C C OOP-A
+24i-8487 AI-E E OS-C
+24i-8487 DDE-E E E
+24i-8487 PF-A A SE-E
+24i-8487 AI-B B SE-B
+24i-8487 DDE-B B B
+23i-4184 CC-D D Data Visualization-B
+23i-4184 SE-C C Data Visualization-A
+23i-4184 CN-A A DBMS-A
+23i-4184 AI-D D B
+23i-4184 PF-E E E
+23i-5521 Data Engineering-A A B
+23i-5521 Data Engineering-E E C
+23i-5521 AI-A A A
+23i-5521 DB-B B E
+23i-5521 SE-D D DDE-D
+23i-1863 Data Analysis-E E E
+23i-1863 CC-C C C
+23i-1863 CN-C C E
+23i-1863 Data Visualization-B B DBMS-C
+23i-1863 DAA-C C Data Mining-D
+24i-4328 Data Visualization-A A B
+24i-4328 Data Science-C C A
+24i-4328 CV-A A DAA-B
+24i-4328 Applied ML-B B Data Analysis-A
+24i-4328 DAA-D D OS-E
+21i-2086 DBMS-B B Data Analysis-D
+21i-2086 CC-A A Data Analysis-C
+21i-2086 SE-D D OS-A
+21i-2086 CN-A A Data Engineering-E
+21i-2086 OOP-B B Data Science-D
+21i-3528 SE-C C E
+21i-3528 CC-D D CN-C
+21i-3528 Data Analysis-B B C
+21i-3528 SE-C C CN-A
+21i-3528 Applied ML-A A Data Science-C
+22i-4884 DDE-B B B
+22i-4884 CC-E E Applied ML-C
+22i-4884 CN-B B DBMS-E
+22i-4884 DB-D D E
+22i-4884 SE-B B C
+23i-8554 OS-A A SE-A
+23i-8554 Data Engineering-E E CC-A
+23i-8554 SE-D D Applied ML-D
+23i-8554 DB-A A C
+23i-8554 CN-C C A
+24i-8039 OS-A A A
+24i-8039 OOP-E E CC-B
+24i-8039 DDE-B B A
+24i-8039 CN-B B OOP-B
+24i-8039 AI-D D E
+22i-8910 DAA-E E D
+22i-8910 AI-D D Data Science-E
+22i-8910 CN-D D C
+22i-8910 Data Engineering-C C A
+22i-8910 AI-C C Data Visualization-A
+23i-5742 PF-D D A
+23i-5742 AI-E E D
+23i-5742 CN-E E B
+23i-5742 Data Science-A A B
+23i-5742 CN-E E E
+23i-9163 CC-D D A
+23i-9163 DB-A A B
+23i-9163 PF-D D CC-E
+23i-9163 OOP-B B A
+23i-9163 Data Analysis-B B Data Engineering-B
+23i-3779 SE-B B Applied ML-E
+23i-3779 Applied ML-C C B
+23i-3779 Data Engineering-D D B
+23i-3779 AI-A A OS-D
+23i-3779 PF-C C A
+21i-0636 OOP-B B D
+21i-0636 CC-C C B
+21i-0636 SE-D D B
+21i-0636 Data Science-D D D
+21i-0636 Data Engineering-C C E
+24i-4381 CN-A A E
+24i-4381 CN-B B SE-A
+24i-4381 SE-B B Data Engineering-D
+24i-4381 PF-D D DBMS-D
+24i-4381 SE-B B DBMS-E
+24i-1895 DAA-E E E
+24i-1895 DBMS-B B Applied ML-D
+24i-1895 CN-E E B
+24i-1895 DBMS-D D A
+24i-1895 Data Mining-C C CN-D
+22i-4272 DDE-A A E
+22i-4272 OS-C C DDE-D
+22i-4272 OOP-D D DBMS-A
+22i-4272 DB-A A A
+22i-4272 DAA-E E CN-C
+24i-2920 SE-B B OS-B
+24i-2920 SE-D D C
+24i-2920 Data Visualization-E E A
+24i-2920 OOP-E E DAA-B
+24i-2920 DAA-C C A
+22i-1776 CN-B B C
+22i-1776 Data Analysis-B B A
+22i-1776 DBMS-B B Applied ML-A
+22i-1776 SE-E E DDE-D
+22i-1776 DAA-A A A
+23i-8058 Data Engineering-E E E
+23i-8058 Data Visualization-D D C
+23i-8058 DAA-A A Data Analysis-A
+23i-8058 DAA-C C DB-E
+23i-8058 Data Visualization-A A C
+23i-2753 CV-D D CC-E
+23i-2753 CC-C C AI-A
+23i-2753 Applied ML-D D B
+23i-2753 Data Mining-B B Data Science-A
+23i-2753 DAA-C C E
+23i-8443 OS-E E A
+23i-8443 CC-E E Applied ML-D
+23i-8443 DB-B B OS-B
+23i-8443 PF-C C C
+23i-8443 Data Mining-A A A
+22i-7917 Applied ML-E E PF-B
+22i-7917 PF-E E A
+22i-7917 Data Engineering-B B E
+22i-7917 Data Visualization-D D D
+22i-7917 DDE-A A SE-C
+24i-4415 OOP-A A B
+24i-4415 DAA-B B CN-A
+24i-4415 OOP-A A SE-B
+24i-4415 DAA-A A Data Science-D
+24i-4415 CN-B B OOP-C
+23i-1554 DAA-E E DBMS-E
+23i-1554 CC-C C Data Visualization-D
+23i-1554 PF-D D OOP-D
+23i-1554 CC-A A CV-D
+23i-1554 Data Engineering-E E OOP-C
+24i-9408 OS-D D Data Analysis-A
+24i-9408 OOP-E E Data Science-D
+24i-9408 Data Analysis-C C D
+24i-9408 CC-A A Data Engineering-E
+24i-9408 OS-E E CN-E
+23i-3556 PF-C C CC-A
+23i-3556 CN-D D OOP-A
+23i-3556 Data Science-D D CC-A
+23i-3556 CV-B B CN-C
+23i-3556 OOP-C C E
+22i-6713 OS-A A E
+22i-6713 Data Mining-A A C
+22i-6713 Applied ML-A A B
+22i-6713 SE-A A Data Mining-E
+22i-6713 DBMS-D D C
+24i-2391 DB-D D A
+24i-2391 DBMS-B B E
+24i-2391 CC-D D A
+24i-2391 DBMS-E E CN-C
+24i-2391 DB-D D A
+24i-0840 CN-D D Data Visualization-D
+24i-0840 Data Engineering-E E Data Science-C
+24i-0840 DDE-D D B
+24i-0840 SE-D D E
+24i-0840 OS-E E CC-E
+23i-3020 CN-D D AI-C
+23i-3020 DB-E E DBMS-D
+23i-3020 AI-A A OS-A
+23i-3020 DDE-B B DAA-D
+23i-3020 DDE-C C CN-B
+24i-7387 CC-E E PF-A
+24i-7387 CC-E E D
+24i-7387 CV-C C OS-A
+24i-7387 Applied ML-B B DBMS-C
+24i-7387 Data Analysis-C C C
+23i-0283 OS-D D A
+23i-0283 Data Analysis-C C OS-C
+23i-0283 Data Science-E E E
+23i-0283 SE-D D D
+23i-0283 OS-B B DDE-D
+23i-9083 SE-D D D
+23i-9083 Data Visualization-B B Data Analysis-B
+23i-9083 DAA-A A DBMS-C
+23i-9083 CC-C C D
+23i-9083 Data Engineering-D D B
+22i-4175 Data Science-A A B
+22i-4175 Data Science-D D E
+22i-4175 DAA-C C B
+22i-4175 DBMS-E E DAA-C
+22i-4175 DBMS-A A DAA-E
+24i-2948 OS-B B Applied ML-E
+24i-2948 SE-B B C
+24i-2948 SE-E E A
+24i-2948 CC-C C B
+24i-2948 PF-A A C
+21i-2111 Data Mining-C C C
+21i-2111 DAA-E E E
+21i-2111 CV-B B A
+21i-2111 PF-B B DDE-E
+21i-2111 AI-A A A
+21i-6709 Data Visualization-B B PF-C
+21i-6709 AI-B B Applied ML-A
+21i-6709 CN-C C D
+21i-6709 Data Analysis-D D B
+21i-6709 Data Visualization-A A B
+23i-0505 DDE-B B A
+23i-0505 Applied ML-E E CV-A
+23i-0505 SE-C C DBMS-B
+23i-0505 OOP-A A A
+23i-0505 DAA-B B CC-D
+22i-1674 Data Engineering-E E B
+22i-1674 Data Engineering-C C D
+22i-1674 Data Mining-D D E
+22i-1674 OS-E E B
+22i-1674 OOP-B B Applied ML-A
+21i-3533 PF-A A DB-A
+21i-3533 Applied ML-E E Data Analysis-C
+21i-3533 DAA-C C CN-C
+21i-3533 Data Mining-B B A
+21i-3533 CN-D D C
+22i-7137 DBMS-B B SE-E
+22i-7137 AI-E E Data Science-B
+22i-7137 SE-C C AI-A
+22i-7137 DDE-D D Data Mining-B
+22i-7137 SE-E E D
+22i-3746 DAA-D D CC-D
+22i-3746 CC-D D Applied ML-D
+22i-3746 DBMS-E E CN-D
+22i-3746 SE-C C DDE-D
+22i-3746 Applied ML-B B B
+23i-9952 CV-E E DB-C
+23i-9952 SE-B B DAA-B
+23i-9952 OOP-A A D
+23i-9952 OS-C C A
+23i-9952 CV-C C E
+24i-3200 PF-A A A
+24i-3200 SE-B B Data Mining-B
+24i-3200 SE-D D E
+24i-3200 Data Visualization-E E Data Analysis-C
+24i-3200 OOP-A A B
+22i-2497 DDE-C C C
+22i-2497 DBMS-B B Data Mining-B
+22i-2497 Data Engineering-B B A
+22i-2497 OS-D D E
+22i-2497 CC-B B B
+21i-7721 CN-E E A
+21i-7721 AI-B B C
+21i-7721 DAA-E E CN-B
+21i-7721 Data Science-B B CC-B
+21i-7721 DAA-C C A
+21i-4061 DBMS-A A DAA-E
+21i-4061 SE-D D E
+21i-4061 DB-E E Applied ML-D
+21i-4061 CN-B B CC-D
+21i-4061 OOP-D D C
+21i-1776 DB-D D C
+21i-1776 Applied ML-A A DBMS-E
+21i-1776 OS-C C DAA-A
+21i-1776 DB-B B Data Science-A
+21i-1776 Applied ML-C C Data Science-C
+21i-1154 DAA-A A B
+21i-1154 Data Mining-B B B
+21i-1154 DBMS-A A A
+21i-1154 DAA-D D AI-C
+21i-1154 SE-D D D
+23i-2413 OOP-C C E
+23i-2413 OOP-D D Data Visualization-B
+23i-2413 CC-D D DAA-A
+23i-2413 AI-C C A
+23i-2413 Data Analysis-D D E
